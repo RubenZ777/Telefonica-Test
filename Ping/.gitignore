@@ -1,0 +1,14 @@
+# Chart Releaser Files
+.cr-*
+
+# Packaged Helm charts
+*.tgz
+
+# mkdocs files
+site/
+
+# mac
+.DS_Store
+
+# IDE
+.idea
